@@ -5,7 +5,7 @@ from PIL import Image
 
 np.set_printoptions(threshold=sys.maxsize)
 
-pic = Image.open("Nole.jpg")
+pic = Image.open("Me.jpg")
 
 pic = np.asarray(pic)
 
